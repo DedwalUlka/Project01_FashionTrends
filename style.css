@@ -223,8 +223,7 @@ body {
     top: 24%;
   }
 }
-
-@media screen and (max-width: 1079px) and (min-width: 770px) {
+@media screen and (max-width: 1079px) and (min-width: 751px) {
   .navbar-container>div>img {
     margin-left: 30px;
   }
@@ -252,13 +251,13 @@ body {
   }
 }
 
-@media screen and (max-width: 770px) and (min-width: 480px) {
+@media screen and (max-width: 750px) and (min-width: 451px) {
   .list {
     display: none;
   }
 
   .search-icon {
-    right: 25%;
+    display: none;
   }
 
   .nav-button {
@@ -270,7 +269,8 @@ body {
   }
 
   .hero-Container>div>img {
-    height: 400px;
+    height: 350px;
+    margin-left: 20px;
   }
 
   .square {
@@ -289,28 +289,26 @@ body {
   }
 
   .star {
-    top: 33%;
-    right: 5%;
-    height: 20px;
+    display: none;
   }
 
   .globe {
-    top: 3%;
-    left: 65%;
+    display: none;
   }
 }
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 450px) {
   .list {
     display: none;
   }
 
   .navbar-container>div>img {
     margin-left: 30px;
+    height: 38px;
   }
 
   .search-icon {
-    right: 35%;
+   display: none;
   }
 
   .nav-button {
@@ -342,6 +340,7 @@ body {
 
   .hero-heading {
     text-align: center;
+    font-size: 30px;
   }
 
   .star {

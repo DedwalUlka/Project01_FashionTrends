@@ -1,6 +1,6 @@
 # Project1 | Fashion Trends
 ### by Ulka Dedwal
-## Live Link :- [Fashion Trend](https://project01-fashion-trends-uk.netlify.app/ "Project01")
+## Live Link :- [Fashion Trend](https://fashion-trend-uk.netlify.app/ "Project01")
 _______________________________________________
 ![alt text](Project_01.png)
 ### what I explore while developing this project?
